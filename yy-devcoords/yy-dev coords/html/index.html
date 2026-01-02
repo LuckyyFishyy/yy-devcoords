@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dev Coords</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="dc-panel" class="panel hidden">
+        <div class="panel-header">
+            <div class="panel-title">Dev Coords</div>
+        </div>
+        <div class="panel-subtitle">Aim at a spot. Press J for vec3, K for vec4.</div>
+        <div class="panel-grid">
+            <div class="panel-card">
+                <div class="card-title">vec3</div>
+                <div id="dc-vec3" class="card-value">vec3(0.00, 0.00, 0.00)</div>
+            </div>
+            <div class="panel-card">
+                <div class="card-title">vec4</div>
+                <div id="dc-vec4" class="card-value">vec4(0.00, 0.00, 0.00, 0.00)</div>
+            </div>
+        </div>
+        <div id="dc-status" class="panel-status">Ready</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
