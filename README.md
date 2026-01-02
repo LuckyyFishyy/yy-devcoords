@@ -4,4 +4,6 @@ Press J to copy vec3 or K for vec4. Access is limited to allowlisted identifiers
 
 By downloading, installing, or using the Software, you agree to be bound by the terms and conditions of this Agreement.
 
+Join our discord to check out more of our scripts: https://discord.gg/PqaFRdkpxM
+
 <img width="1576" height="733" alt="Screenshot 2026-01-02 145404" src="https://github.com/user-attachments/assets/82381ed6-84f4-4b32-a43d-84849507c311" />
